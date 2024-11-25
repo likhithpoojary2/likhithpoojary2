@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Likhith</h1><br/>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3><br/>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"><br/>
 
 <h3 align="left">Connect with me: <a href="mailto:likhithan02@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> </h3> <br/>
