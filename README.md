@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **likhithan02@gmail.com**
 
-- ⚡ Fun fact **Fun fact: I specialize in 3D animation, blending creativity with technical skill.**
+- ⚡ **Fun fact: I specialize in 3D animation, blending creativity with technical skill.**
 
 
 </p>
