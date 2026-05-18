@@ -8,7 +8,7 @@
 
 -  Aspiring Software Engineer.
 
--  Interested in AI Projects, Web Development & Open Source**
+-  Interested in AI Projects, Web Development and  Open Source
 
 -  How to reach me **likhithan02@gmail.com**
 
