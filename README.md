@@ -6,13 +6,13 @@
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <br/>
 
-- 🔭 Aspiring Software Engineer.
+-  Aspiring Software Engineer.
 
-- 🌱 Interested in AI Projects, Web Development & Open Source**
+-  Interested in AI Projects, Web Development & Open Source**
 
-- 📫 How to reach me **likhithan02@gmail.com**
+-  How to reach me **likhithan02@gmail.com**
 
-- ⚡ **Fun fact: I specialize in 3D animation, blending creativity with technical skill.**
+-  **Beyond Coding: I specialize in 3D animation, blending creativity with technical skill.**
 
 
 </p>
